@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.deps.json
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\Business.EA331CBA.Up2Date
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\refint\BusinessLayer.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\BusinessLayer\obj\Debug\net8.0-windows\ref\BusinessLayer.dll

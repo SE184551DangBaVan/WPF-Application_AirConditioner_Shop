@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\bin\Debug\net8.0-windows\DataAccess.deps.json
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\bin\Debug\net8.0-windows\DataAccess.runtimeconfig.json
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\bin\Debug\net8.0-windows\DataAccess.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\bin\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\refint\DataAccess.dll
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.pdb
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\DataAccess.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PE_PRN212_SU24TrialTest_DangBaVan\DataAccess\obj\Debug\net8.0-windows\ref\DataAccess.dll
